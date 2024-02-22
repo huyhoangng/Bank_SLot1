@@ -1,0 +1,7 @@
+D:\2023-2024\Sem_2\C#\ConsoleApp2\Bank_Slot1\bin\Debug\Bank_Slot1.exe.config
+D:\2023-2024\Sem_2\C#\ConsoleApp2\Bank_Slot1\bin\Debug\Bank_Slot1.exe
+D:\2023-2024\Sem_2\C#\ConsoleApp2\Bank_Slot1\bin\Debug\Bank_Slot1.pdb
+D:\2023-2024\Sem_2\C#\ConsoleApp2\Bank_Slot1\obj\Debug\Bank_Slot1.csproj.AssemblyReference.cache
+D:\2023-2024\Sem_2\C#\ConsoleApp2\Bank_Slot1\obj\Debug\Bank_Slot1.csproj.CoreCompileInputs.cache
+D:\2023-2024\Sem_2\C#\ConsoleApp2\Bank_Slot1\obj\Debug\Bank_Slot1.exe
+D:\2023-2024\Sem_2\C#\ConsoleApp2\Bank_Slot1\obj\Debug\Bank_Slot1.pdb
